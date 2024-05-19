@@ -57,3 +57,7 @@ Please review and adhere to the [Code of Conduct](CODE_OF_CONDUCT.md) to ensure 
 If you have any feedback, suggestions, or encounter any issues with the repository, feel free to open an issue or reach out to us directly.
 
 Happy coding!
+
+g++ -o 06_Solution 06_Problem.cpp
+./06_Solution
+
